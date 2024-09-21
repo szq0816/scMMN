@@ -1,4 +1,4 @@
-# scMMNMulti-level multi-view network based on structural contrastive learning for scRNA-seq data clustering
+# scMMN:Multi-level multi-view network based on structural contrastive learning for scRNA-seq data clustering
 
 If you want to run our code, go to the scMMN directory and then 
 
